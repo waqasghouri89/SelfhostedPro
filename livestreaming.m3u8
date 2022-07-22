@@ -1,4 +1,9 @@
 #EXTM3U
 
-#EXTINF:0tvg-id="CP24" tvg-logo="https://raw.githubusercontent.com/waqasghouri89/SelfhostedPro/main/images/cp24.png" tvg-chno="1",TVNZ 1
+#EXTINF:0 tvg-id="CP24" tvg-logo="https://raw.githubusercontent.com/waqasghouri89/SelfhostedPro/main/images/cp24.png" tvg-chno="1",CP24
 http://23.237.86.26/CA_CP24/index.m3u8?token=RSNAP3034ks
+
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://github.com/waqasghouri89/SelfhostedPro/blob/main/images/toronto360.jfif?raw=true" tvg-chno="2",Toronto360Live
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
+
+
